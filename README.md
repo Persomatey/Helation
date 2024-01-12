@@ -13,5 +13,7 @@ https://persomatey.itch.io/helation
 	
 <i>An Arena FPS game inspired by classic games in the genre such as Halo, Doom, and Portal. A tutorial mode where you make your way through the training facility while learning the ropes of the game. An arena mode where you fight your way through troves of enemies to try to beat your high score. </i> 
 
+<i>I apologize that this readme is a little light and that the commits are a mess. I had to delete my previous repository due to LFS shenanigans. </i>
+
 </blockquote>
 </details> 
